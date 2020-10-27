@@ -1,0 +1,51 @@
+#main {
+    width: 1333px;
+    height: 11820px;
+    background-color: #f4f4f4;
+
+}
+
+#top {
+    width: 1333px;
+    height: 40px;
+    background-color: #f4f4f4;
+
+}
+#top select{
+    font-size: 15px;
+    border: #f4f4f4;
+    background-color: #f5f5f5;
+}
+#top-font-left {
+    width:370px;
+    height: 30px;
+    padding: 9px 20px;
+    font-size: 15px;
+    float: left;
+}
+#top-font-left li{
+    list-style: none;
+    float: left;
+    margin-left: 10px;
+    margin-top: -15px;
+}
+#top-font-right {
+    width:850px;
+    height: 30px;
+    padding: 9px 10px;
+    font-size: 15px;
+    float: right;
+
+}
+#top-font-right li{
+    list-style: none;
+    float: right;
+    margin-left: 10px;
+    margin-top: -15px;
+}
+
+#top2{
+    width: 1330px;
+    height: 80px;
+    background-image: radial-gradient();
+}
